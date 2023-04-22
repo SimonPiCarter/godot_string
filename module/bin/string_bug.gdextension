@@ -1,0 +1,6 @@
+[configuration]
+entry_symbol = "string_bug_library_init"
+
+[libraries]
+windows.x86_64="res://module/bin/string_bug.dll"
+linux.x86_64="res://module/bin/string_bug.so"
